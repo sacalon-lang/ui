@@ -1,5 +1,5 @@
 # ui
-Cross platform UI library for Hascal
+Cross platform UI library for Sacalon
 
 ```typescript
 if ui_begin_window(ctx, "My Window", ui_rect(10, 10, 140, 86)) {
